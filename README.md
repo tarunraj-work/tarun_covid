@@ -5,6 +5,6 @@ Tarun's COVID-19 reporting
 - [x] Set up repository
 - [x] Set up Colab Notebook
 - [ ] Acquire Dublin COVID Data
-- [ ]Process data
+- [ ] Process data
 - [ ] Visualize data
 - [ ] Set up data stream
